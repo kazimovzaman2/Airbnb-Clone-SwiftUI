@@ -37,8 +37,9 @@ This project is an Airbnb clone application built using SwiftUI. It showcases mo
 ## Recording
 Include screenshots of your application here to showcase its features.
 
-Uploading Simulator Screen Recording - iPhone 16 Pro - 2025-01-02 at 11.07.14.mp4…
 
+
+https://github.com/user-attachments/assets/e89805e6-73b1-4ac0-b4ef-d777b1883f89
 
 
 ## Contributing
